@@ -1,0 +1,3 @@
+---
+# tasks file for report
+- include_tasks: scap.yml
